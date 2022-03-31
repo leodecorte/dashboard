@@ -8,10 +8,12 @@ Each of these services would offer different widgets
 
 ...
 
-First of all to run our app you have to install all dependecies
+First of all to run our app you have to install all dependecies.
+Inside front-end and back-end directories, run:
 
-
-run `npm i` in both folders, front-end and back-end.
+```
+npm i
+```
 
 Make sure you have your SQL DB running in port 3306, and just change the credentials in the index.js from the backend folder. The DB's instructions are in `db.sql` inside of back-end folder.
 

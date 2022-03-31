@@ -7,9 +7,9 @@ First of all, to be able to use our website, you have to run
 npm i
 ```
 
-in the frond-end folder, and the back-end folder which is located inside the Dashboard folder.
+in the frond-end folder, and the back-end.
 
-Make sure you have your SQL DB running in port 3306, and just change the credentials in the index.js from the backend folder.
+Make sure you have your SQL DB running in port 3306, and just change the credentials in the index.js from the backend folder. The DB's instructions are in DB.sql inside of back-end folder.
 
 When everything is set up, just run the application
 
@@ -43,8 +43,8 @@ Inside, you'll see we have a lot of modules :
 - Sport : Find the sport you want to practice thanks to this tool.
 - Gmail : this one lets you see the last mail you received in Gmail.
 
-This application was created by Remi, Olivier, Leonardo, Jules, and Jonathan. 
+This application was created by Leonardo, Jules, Jonathan, Remi and Olivier.
 
-Thanks you for reading, if you have any questions, please contact : remi.triton@epitech.eu
+Thanks.
 
 

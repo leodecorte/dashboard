@@ -1,15 +1,19 @@
-# Dashboard
+# Micro Service
 
-This is a readme about our application 'Dashboard', available right only on local.
-First of all, to be able to use our website, you have to run 
+# The project - Dashboard
 
-```
-npm i
-```
+The purpose of this project is to implement a web application that works like Netvibes.
+The user will first connect to our application and then subscribe to different services that are accessible from our solution.
+Each of these services would offer different widgets
 
-in the frond-end folder, and the back-end.
+...
 
-Make sure you have your SQL DB running in port 3306, and just change the credentials in the index.js from the backend folder. The DB's instructions are in DB.sql inside of back-end folder.
+First of all to run our app you have to install all dependecies
+
+
+run `npm i` in both folders, front-end and back-end.
+
+Make sure you have your SQL DB running in port 3306, and just change the credentials in the index.js from the backend folder. The DB's instructions are in `db.sql` inside of back-end folder.
 
 When everything is set up, just run the application
 
